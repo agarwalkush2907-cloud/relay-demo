@@ -1,3 +1,1 @@
-# Relay Demo
-
-This is a live demo of an MCP agent.
+This is a demo repository for an autonomous MCP agent.
